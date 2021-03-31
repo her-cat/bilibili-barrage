@@ -1,0 +1,21 @@
+{
+    "name": "ubuntu/workerman-bilibili-barrage",
+    "type": "project",
+    "require": {
+        "workerman/workerman": "^4.0",
+      "ext-json": "*",
+      "ext-zlib": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "her-cat",
+            "email": "i@her-cat.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./src"
+        }
+    }
+}
