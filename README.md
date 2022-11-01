@@ -1,1 +1,1 @@
-详细介绍：[https://her-cat.com/2021/03/31/workerman-to-access-bilibili-barrage-protocol.html](https://her-cat.com/2021/03/31/workerman-to-access-bilibili-barrage-protocol.html)
+详细介绍：[https://her-cat.com/posts/2021/04/01/workerman-to-access-bilibili-barrage-protocol/](https://her-cat.com/posts/2021/04/01/workerman-to-access-bilibili-barrage-protocol/)
